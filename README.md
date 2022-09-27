@@ -6,7 +6,7 @@
 
 # 2. 팀소개
  
-
+![정보융합공학과 이미지](https://user-images.githubusercontent.com/100384365/192478661-5dc79a18-b076-48ef-b842-bcf65b0d8d44.jpg)
 
 # 3. 소개 및 시연 영상
 
