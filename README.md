@@ -49,10 +49,6 @@
 _italic_
 `code`
 
-\```
-code block
-\```
-
 \\<!--주석-->
 
 [link text](URL)
