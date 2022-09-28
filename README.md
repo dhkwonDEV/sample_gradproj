@@ -49,9 +49,9 @@
 _italic_
 `code`
 
-```
+\```
 code block
-```
+\```
 
 \\<!--주석-->
 
@@ -60,7 +60,7 @@ code block
 
 ### 2. 이미지 추가
 ```markdown
-\\<!--![이미지 이름](이미지 URL 링크)-->
+<!--![이미지 이름](이미지 URL 링크)-->
 ![정보융합공학과 이미지](https://user-images.githubusercontent.com/100384365/192478661-5dc79a18-b076-48ef-b842-bcf65b0d8d44.jpg)
 ```
 
@@ -68,7 +68,7 @@ code block
 
 ### 3. 유튜브 영상 추가
 ```markdown
-\\<!--[![영상 이름](유튜브 영상 썸네일 URL)](유투브 영상 URL)-->
+<!--[![영상 이름](유튜브 영상 썸네일 URL)](유투브 영상 URL)-->
 [![부산대학교 정보컴퓨터공학부 소개](http://img.youtube.com/vi/zh_gQ_lmLqE/0.jpg)](https://youtu.be/zh_gQ_lmLqE)    
 ```
 [![부산대학교 정보컴퓨터공학부 소개](http://img.youtube.com/vi/zh_gQ_lmLqE/0.jpg)](https://youtu.be/zh_gQ_lmLqE)    
