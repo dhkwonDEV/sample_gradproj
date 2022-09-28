@@ -1,9 +1,11 @@
 # Template for Capstone
+이 레파지토리는 학생들이 캡스토 프로젝트 결과물을 위한 레파지토리 생성시에 작성해야할 README 파일에 대한 가이드라인과 작성팁을 안내합니다. 
  
 ## README 가이드라인
 
-README 파일 작성시에 아래의 5가지 항목의 내용은 필수적으로 포함하도록 하세요.
-아래의 5가지 항목이외에 프로젝트의 이해를 돕기 위한 내용을 추가해도 됩니다.
+- README 파일 작성시에 아래의 5가지 항목의 내용은 필수적으로 포함해야 합니다.
+- 아래의 5가지 항목이외에 프로젝트의 이해를 돕기 위한 내용을 추가해도 됩니다.
+- SAMPLE_README.md 이 단순한 형태의 예제이니 참고하세요.
 
 ### 1. 프로젝트 소개
 
@@ -24,11 +26,29 @@ README 파일 작성시에 아래의 5가지 항목의 내용은 필수적으로
 ### 5. 사용법
 
 프로젝트 결과물의 설치법이나 사용법을 작성하세요.
+***
 
 ## README 작성팁
+마크다운 언어를 이용해 README.md 파일을 작성할 때 참고할 수 있는 마크다운 언어 문법을 공유합니다.  
+다양한 예제와 보다 자세한 문법은 [이 문서](https://www.markdownguide.org/basic-syntax/)를 참고하세요.
 
-### 1. Markdown 작성법
+### 1. 텍스트 작성
+```markdown
+본문입니다.
 
+# This is a Header 1
+## This is a Header 2
+### This is a Header 3
+#### This is a Header 4
+##### This is a Header 5
+###### This is a Header 6
+
+**bold**
+_italic_
+`code`
+
+[link text](URL)
+```
 
 ### 2. 이미지 추가
 ```markdown
