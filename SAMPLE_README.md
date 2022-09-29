@@ -5,11 +5,16 @@
 ### 2. 팀소개
 
 Tony Stark, ironman@marvel.com, 개발총괄
+
 Peter Benjamin Parker, spiderman@marvel.com, 알고리즘 설계
+
 Stephen Vincent Strange, doctorstrange@marvel.com, 백앤드 개발
+
 Robert Bruce Banner, hulk@marvel.com, 프론트엔드 개발
 
 ### 3. 시스템 구성도
+
+부산대학교 일반대학원 정보융합공학과는 컴퓨터공학전공, AI전공, 의생명융합전공이 있습니다.
 
 ![정보융합공학과 이미지](https://user-images.githubusercontent.com/100384365/192478661-5dc79a18-b076-48ef-b842-bcf65b0d8d44.jpg)
 
